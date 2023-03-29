@@ -1,0 +1,11 @@
+
+
+.status_diplay{
+    display: flex;
+    flex-direction: row;
+}
+
+.status {
+    width: 400px;
+    background-color: azure;
+}

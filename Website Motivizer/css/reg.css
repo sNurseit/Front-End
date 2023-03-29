@@ -1,0 +1,27 @@
+.name{
+    display: flex; 
+    justify-content: space-between;
+}
+
+.fname{
+    width: calc(95%/2);
+}
+
+.bday{
+    display: flex;
+    justify-content: space-between;
+}
+
+.date{
+    width: calc(90%/3);
+    margin-right: 20px;
+}
+
+.home{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.continue{
+    margin-top: 69px !important;
+}

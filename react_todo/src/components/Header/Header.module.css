@@ -1,0 +1,13 @@
+.progress_back{
+    margin: 0 auto;
+    width: 80%;
+    height: 20px;
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+
+.logo_img{
+    width: 15%;
+    margin: 40px;
+}
+
